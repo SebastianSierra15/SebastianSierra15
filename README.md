@@ -1,35 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sebastián Sierra</h1>
-<h3 align="center">Full Stack Developer & Systems Engineering student | Passionate about building web solutions with Next.js, .NET, Java and cloud technologies.</h3>
+<!-- Encabezado -->
+<h1 align="center">👋 Hi, I'm Sebastián Sierra</h1>
+<h3 align="center">💻 Full Stack Developer & Systems Engineering Student</h3>
+<p align="center">Passionate about building scalable web solutions with Next.js, .NET, Java and cloud technologies.</p>
 
-- 🛠 Projects I've worked on **Edifik – Real estate management platform**
+---
 
-- 📚 I’m currently learning **Docker, Nestjs**
+<!-- Información general -->
+### 🧠 Sobre mí
 
-- 💼 Co-founded and launched [PrometeonDev – Web development tools & dashboards](https://www.prometeondev.com)
+- 🎓 **Estudiante de Ingeniería de Sistemas** en la Universidad de la Amazonía.
+- 🛠 Proyectos destacados:
+  - [**Edifik** – Plataforma para gestión inmobiliaria.](#)
+  - [**PrometeonDev** – Herramientas y dashboards para desarrollo web.](https://www.prometeondev.com)
+  - [**Invehin** – Sistema de inventario para tienda de ropa.](https://github.com/SebastianSierra15/Invehin)
+- 📚 Actualmente aprendiendo **Docker** y **NestJS**.
+- 💬 Pregúntame sobre **Next.js, .NET, Java, MySQL, MongoDB**.
+- 📫 Contacto: **sebsirra13@gmail.com**
+<br/>
 
-- 🚧 Currently developing [Invehin – Inventory system optimization (opcional si buscas feedback o ideas)](https://github.com/SebastianSierra15/Invehin)
+<a href="https://drive.google.com/file/d/1UZP3irSO2qxP3KvVCmWhkDHk3_TACLGM/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20mi%20CV-%230077B5?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV de Sebastián Sierra"/>
+</a>
 
-- 💻 All of my projects are available at [https://github.com/SebastianSierra15](https://github.com/SebastianSierra15)
+---
 
-- 💬 Ask me about **Next.js, .NET, Java, MySQL, MongoDB**
+<!-- Contacto -->
+### 🤝 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-sierra-417358263)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SebastianSierra15)
 
-- 📫 How to reach me **sebsirra13@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UZP3irSO2qxP3KvVCmWhkDHk3_TACLGM/view?usp=sharing](https://drive.google.com/file/d/1UZP3irSO2qxP3KvVCmWhkDHk3_TACLGM/view?usp=sharing)
+<!-- Tecnologías -->
+### 🚀 Tecnologías que uso
 
-- ⚡ Fun fact **I enjoy building clean UIs and learning new tech every week 🚀**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/sebastian-sierra-417358263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sebastian-sierra-417358263" height="30" width="40" /></a>
+#### Lenguajes y frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+#### Bases de datos y herramientas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiansierra15&show_icons=true&locale=en&layout=compact" alt="sebastiansierra15" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastiansierra15&show_icons=true&locale=en" alt="sebastiansierra15" /></p>
+<!-- Estadísticas -->
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SebastianSierra15&show_icons=true&theme=tokyonight" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=SebastianSierra15&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sebastiansierra15&" alt="sebastiansierra15" /></p>
-
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianSierra15&layout=compact&theme=tokyonight" />
+</p>
