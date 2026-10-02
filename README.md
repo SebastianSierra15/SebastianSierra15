@@ -4,7 +4,7 @@
 
 ### Full-stack developer working across product, web platforms, backend systems, and AI-assisted workflows
 
-I have built production-oriented applications with **TypeScript, React, Next.js, Java, Spring Boot, MySQL, MongoDB, and Docker**, across real-estate platforms, educational portals, inventory systems, dashboards, private product suites, and card-game ecosystems. That experience is part of my toolkit, not a boundary: I care about understanding the problem, choosing the right tools, and shipping software that is useful, maintainable, and easy to evolve.
+I have built production-oriented applications with **TypeScript, React, Next.js, Java, Spring Boot, MySQL, MongoDB, and Docker**, across real-estate platforms, educational portals, inventory systems, dashboards, private product suites, and card-game ecosystems. I care about understanding the problem, choosing the right tools, and shipping software that is useful, maintainable, and easy to evolve.
 
 <a href="https://www.linkedin.com/in/sebastian-sierra-417358263" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Sebastian%20Sierra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Sebastian Sierra" /></a>
 <a href="https://github.com/SebastianSierra15" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-SebastianSierra15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: SebastianSierra15" /></a>
@@ -17,11 +17,11 @@ I have built production-oriented applications with **TypeScript, React, Next.js,
 
 ## About me
 
-I am a Systems Engineering student at Universidad de la Amazonia and a full-stack developer who enjoys taking ideas from interface design to database-backed production flows.
+I am a Systems Engineering student at Universidad de la Amazonia and a full-stack developer who enjoys taking ideas from interface development to database-backed production flows.
 
 My strongest area is building **modern web products**: clean React/Next.js frontends, API-driven backends, authentication, admin panels, data models, deployment workflows, and product features that are maintainable after the first release.
 
-I also work with **AI-assisted development workflows**, using tools such as Codex and other AI agents to speed up exploration, refactoring, documentation, debugging, and automation while keeping the technical decisions deliberate and reviewed.
+I also have experience with **AI-assisted environments**, including Codex and AI agents for technical exploration, automation, documentation, and modern development workflows.
 
 Currently, I am especially interested in:
 
@@ -94,7 +94,6 @@ Currently, I am especially interested in:
 - I care about product context first: the feature, the user flow, and the business rule behind the code.
 - I like structured systems: clear APIs, reusable components, explicit data models, and maintainable project organization.
 - I am comfortable moving across frontend, backend, database, deployment, and debugging work.
-- I use AI agents as part of my development environment to iterate faster, review ideas, automate repetitive work, and improve code quality.
 - I document what matters so a project can be understood after the initial build.
 
 ---
