@@ -9,7 +9,7 @@ I have built production-oriented applications with **TypeScript, React, Next.js,
 <a href="https://www.linkedin.com/in/sebastian-sierra-417358263" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Sebastian%20Sierra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Sebastian Sierra" /></a>
 <a href="https://github.com/SebastianSierra15" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-SebastianSierra15-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: SebastianSierra15" /></a>
 <a href="mailto:sebsirra13@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-sebsirra13%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: sebsirra13@gmail.com" /></a>
-<a href="https://drive.google.com/file/d/1UZP3irSO2qxP3KvVCmWhkDHk3_TACLGM/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CV-View%20resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="View resume" /></a>
+<a href="https://drive.google.com/file/d/1WF-bVtsc7eeM7xe7BvoJFv1chZbVp1ci/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CV-View%20resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="View resume" /></a>
 
 </div>
 
