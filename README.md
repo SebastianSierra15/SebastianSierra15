@@ -17,7 +17,7 @@ Trabajo principalmente con **React, Next.js, TypeScript, Java y Spring Boot**.
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas y desarrollador full stack. Me interesa convertir necesidades reales en productos web claros, funcionales y preparados para crecer.
+Soy ingeniero de sistemas y desarrollador full stack. Me interesa convertir necesidades reales en productos web claros, funcionales y preparados para crecer.
 
 Me muevo entre frontend, backend, bases de datos y despliegue: desde una interfaz React/Next.js hasta una API con autenticación, un modelo de datos, un dashboard o un servicio Dockerizado en producción.
 
